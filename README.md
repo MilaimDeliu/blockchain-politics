@@ -56,4 +56,3 @@ https://ethereum.org/en/dao/
 https://en.wikipedia.org/wiki/Decentralized_autonomous_organization
 https://gov.gitcoin.co/t/gitcoin-dao-governance-process-v3/10358
 https://www.bankless.community/about-us/governance
-Next Steps
